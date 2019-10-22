@@ -1,0 +1,14 @@
+1.log 4j properties?
+2.about stack class?
+3.diff b/w jdbc and hibernet?
+4.which one is secure get method or post method?
+5.what is applicationContext?
+6.hql quries?
+7.join quries?
+8.tell me about ur project and what's ur role  in this project?
+9.mvc flow?
+10.which scope is diffult in spring ioc?
+11.scopes types?
+12.about orm?
+13.about servlet?
+14.diff b/w overloading and overriding?

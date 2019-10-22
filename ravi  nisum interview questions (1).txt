@@ -1,0 +1,54 @@
+ravi nisum interview questions:-
+
+
+1)tell me about yourself?
+
+2)What is immutable object?what is the use of immutable?
+
+3)What is difference between Executor.submit() and Executer.execute() method ?
+
+4)What’s the difference between  equals method and == operator?
+
+5) call you non-static method from inside a static method?
+
+6)jquery chaining?and what are the functions?
+
+7)different states of a thread?
+
+8)jquery sibiling functions?
+
+9)in jquery what is the use of this $()?
+
+10)what is cyclic barrier?
+
+11)what is the volatile keyword? and use?
+
+12) code of ajax call? 
+
+13)reverse of string program?
+
+14) serialization ?
+
+15)use of window object?
+
+16)daemon thread?
+
+17)java 8 features?
+
+18)can you call foreach is legacy?
+
+19)html5 some features?
+
+20)what is the use of bootsrap?
+
+21)what is savepoint?can you explain one scenario?
+
+22)in your project what orm tool you used?
+
+23)What is EnumSet?
+
+24)How can we create a synchronized collection from given collection?
+
+25)What is CopyOnWriteArrayList
+
+26)How TreeMap works in Java ?

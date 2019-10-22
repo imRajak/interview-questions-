@@ -1,0 +1,25 @@
+1st Interview questions: Genpact:
+----------------------------------
+-> User Defined Exception
+-> Spring Scheduler
+-> Spring-Hibernate configuration-(How to configure hibernate in Spring)
+-> Spring MVC Architecture
+-> Annotations used in Spring
+-> How to provide security in spring?
+-> How to deploy your project
+-> Ways to use Autowire and which is by default and which approach is better
+-> Spring Session management
+-> Hibernate Mapping configuration
+-> What is HQL and What is Criteria
+-> What is composite-id
+-> Spring IOC(What is the use of IOC in spring)?
+-------------------------------------------
+-> How to check the project performance and how to improve the performance of project?
+-> Explain about the project
+-> Roles and reponsibility in the project?
+-> Modules you dealt with and technologies used
+-> Hibernate Configuration
+-> Hibernate cache levels and second level cache types
+-> Did you use spring security
+-> 
+

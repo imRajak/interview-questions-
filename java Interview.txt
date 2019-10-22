@@ -1,0 +1,126 @@
+Core Java
+-------------------
+
+#) Why we need to keep JVM indide JRE? Why can't it in JDK ?
+#) Class loaders in JVM ?
+#) JRE/JVM is platform independent/dependent ?
+#) Custom Exception ?
+#) Java 8 features ?
+#) Why static methods inside Interface (Java 8) ? How main method will execute in interface ? (Ex : Even we can write public static main method inside interface)
+#) How lambda expression are works ?
+#) What is abstract class and interface with respect to java 8 features ?
+#) Why Generics ?
+#) Exception and Error difference ?
+#) Serialization and deserialization ?
+#) How to avoid Object creation with respect to desirialization in Singleton Design Pattern  ?
+#) I have one main thread and many child threads, how to perform my main thread action after completion of all child threads ? (But you can't apply JOIN method in each child thread) 
+#) Why Reflection API in java ? Did you used in Your project ?
+#) HashMap internal working ?
+#) What is CuncurrentHashMap ?
+#) Algorithm and DataStructures of each Collection?
+#) If any program asked you to write max try to avoid depend on Collection classes while doing programe ?
+#) What is Polymorphism ? Why Should I need to write multiple methods with same name with different arguments ?
+#) Which kind of DataStructure you would choose while working with Elevator (Lift) ?  (He will explain Lift behaviour and respective that which Collection object is suitable) 
+#)  If you want to store Custom object as a key in HashMap what steps we would do ? Is there anything apart from equals and hashCode methods ?
+
+JSP
+------------
+
+#) Custom tags in JSP
+
+Struts
+------------
+
+#) Avoid Double form submission in Struts ? (Without javascript)
+#) Struts action classes ? and their differences ?
+#) Struts default taglibs ?
+#) tags inside struts config file ?
+
+
+Spring
+--------------
+
+#) Spring IOC?
+#) Spring scopes ?
+#) Spring autowiring ?
+#) Spring MVC flow ?
+#) Spring AOP ? 
+#) Different types of Advices ?
+#) What are the attributes are with @Transaction ? Their importance ?
+#) Name few spring annotations ?
+#) How my class will work internally if I annotate with @Controller Or @Transactional etc...... ? 
+#) Default object scope in spring ? Whether it return same object even with Multithreaded Environment and How ?
+#) Session scope and Application Scope difference ?
+#) How spring is Loosely coupling ?
+
+Hibernate
+------------------
+#) get() and load() method ? (How load() will communicate with database without printing select query on console until call getter of that object)
+#) What are the interfaces are threre in Hibernate ?
+#) How Second Level cache works internally ?
+#) How we will provide JOIN with respect to Criteria and HQL ?
+#) Inversion in Hibernate ?
+#) Cascading and Fetching techniques in Hibernate ?
+#) Relationships in Hibernate ?
+#) 1+n Problem ?
+#) Dirty read, Non Repeatable read and Phontom read problems in Hibernate ?
+#) Disadvantages of Hibernate ?
+
+webservice
+--------------------
+#) What is webservice ? Which side you are working Consumer or Provider ?
+#) What are the steps are involved writing or consume a webservice ?
+#) How many services we need to perform CRUD operations ?
+
+
+Oracle 
+------------
+
+#) Nth min/max salary from table ?
+#) Differences between Views and Materialized Views ?
+#) How we will check performance with Query ? (Means query execution might took much time then what steps strikes in your mind to improve performance)
+
+
+
+JSF 
+-------------
+
+#) JSF life cycle ?
+#) How validations are working in JSF ?
+#) Few annotations in JSF ?
+
+
+Maven build tool
+---------------------
+
+#) What build tool you used in your project ?
+#) What its do exactly ? (Your maven or ant or gradle etc)
+#) What  integration tool you used ?
+#) Types of scopes in your maven pom ?
+#) Differences of compile and test scopes ?
+#) List few Goals with respect to Maven ?
+#) How to exclude dependencies inside a dependency ?
+#) How to refer your parent pom properties in your child pom file ?
+#) Tags in your pom file ?
+#) Usage of plug in's in your pom file ?
+#) Where you configure your Central Repository URL in your pom ?
+
+Jenkins
+------------
+#) How to create Job in Jenkins ?
+#) How to integrate with Maven or SVN ? 
+#) What is SCM in Jenkins or Maven ?
+#) What is Upstream and Downstream ?
+#) How to configure SVN Url dynamically means as path parameter ?
+
+
+General Differences 
+---------------------------
+
+#) Differences between JSF and Struts ?
+#) Differences between Struts and Spring ?
+#) Differences between SVN and GIT ?
+#) What is Project Facades ? (One of the feature in Eclipse or STS)
+#) What are the things you need to take care if you change your java verion as 1.6 to 1.8 ?
+
+

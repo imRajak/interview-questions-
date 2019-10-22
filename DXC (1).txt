@@ -1,0 +1,18 @@
+1. What are the annotations used in SpringBoot?
+2. From where the execution of springboot starts?
+3. What are the differences between spring and springboot?
+4. Write a query to give second maximum salary?
+5. Write project architecture and explain it using modules involved in projects with the flow?
+6. Why do we go for threads concept?
+7. How will you add and remove elements in a map?
+
+
+8.What your project flow?
+9.Which SDLC did you use?
+10.How does the flow of agile work in your project?
+11. Who will assign the work to you? In How many days does a sprint release?
+12. What is the recent bug you fixed?
+13. What the exception you fixed recently?
+14. How will you help or guide a test engineer at work when a bug is encountered?
+15. How will you test a code?
+16. What is the  build tool you used?

@@ -1,0 +1,30 @@
+1.What is volatile?
+2.What is Static?
+3.What are the scopes in spring? What is the purpose of each?
+4.How did you handle exceptions in your project?
+5.How authentication is provided in your project while using restfull webservices?
+6.What is the flow of your project architecture?
+7.Daily activities? Which server did you user to deploy and how svn was used?
+8.What all unix commands are used at the time of deployment? How were you deploying a project?
+9.What is a singleton? How singleton used in multithread?
+10.What all collections classes are used in your project?
+11.What is internal mechanism of hashmap?
+12.What is the contract between hashcode and equals method?
+13.What is immutable? Why string is immutable?
+14.What is the difference between string builder and string buffer? 
+15.What is deadlock? What is saturation?
+16.How will try catch and finally work when we write return in all the 3 blocks? 
+17.When will finally not get executed?
+18.What is a GC? What is finalize?
+19.How can we fetch data based on 3 conditions?Data should be fetched separately for each condition in sorted order?
+Employee
+-----------------
+ID NAME SAL
+
+SAL=20
+SAL<20
+SAL>20
+
+20.How to get 4th highest salary from a table?
+21.I have 200 records in a list? How can we eliminate duplicates?
+

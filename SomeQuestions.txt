@@ -1,0 +1,59 @@
+
+
+------------------------------------------------------**First Round**------------------------------------------------------------------------------------------------------
+
+
+1. Introduction, tell me about your self.
+2. Describe project in detail with every module.
+3. What are OOps concepts? What is Encapsulation
+4. What is the difference between Encapsulation and abstraction as both provide security?
+5. Write down Interface and abstract class
+6. Given two classes and told to remove bug if any.
+7. What is run time and static polymorphism.
+8. What is early and lazy binding?
+9. Hibernate annotations
+10. What is Spring IOC?
+11. Write down spring configuration file for different injections.
+12. What is DAO, have you used JDBC Template ?
+13. Which queries you are writing with the help of JDBC?
+14. Given one DB requirement and told to write query in DAO using JDBC template
+15. What is Hibernate template, how can we integrate with spring
+16. What is HashMap and HasshTable? What is the difference between these two.
+17. write down code for hashmap
+18. What is Hashset? What exactly mean by default sorting order?
+19. What is comarable and comparator. Write down code for sorting EmployeeId.
+20. Can we implement the interface for abstract class?If yes how?if No why not.
+21.What is JDBC? Why we require DriverManager.?
+22. What is prepare statement?
+23. How many interfaces are there in JDBC? who will give the implementation for interfaces?
+24. Write down overloading and overriding example. Asked various scenarios in that.
+25. What is LOG4J? Which appender do have used in your project?
+25. How many XML files are there in your project?
+26. What are different logger levels.
+27. Difference between Info and Debug.
+28. What is web service?Why do we use web services?
+29. one requirement given to develope one web servie.
+30. Write down spring rest webservice.
+31. What is JUnit? What are the annotations used in it? Write one test case.
+32. What is Maven? Default scope for maven.
+33. Differene between package and install phase.
+34. Why SpringRest?
+35. Is Spring rest is same as HTTP ? If yes why are we using ,if no what is the difference between the two?
+36. What is POM?
+37. What changes we have to make to move one project from one technology to other.?  
+38. How we can test the application in production?
+39. Does constructor can be overridden?
+
+
+------------------------**Second Round**---------------------------------------------------------
+1. Same questions as of in second round but in deep he digged out.
+
+
+------------------------**Skype Round**-----------------------------------------------------------
+1. He has given some code and told me to find out the bug,if so fix those.
+2. DB related questions specially focused on Order By,GroupBy.
+3. Project code
+4. Few annotations which were new to all of us from Mockito.
+
+
+

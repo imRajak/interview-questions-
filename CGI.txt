@@ -1,0 +1,40 @@
+CGI Interview Questions:
+--------------------------
+1.Tell me about your self?
+2.Explain about your project?
+3.What are your roles and responsibilities in it?
+4.Which software life cycle did you use in you company?
+5.Explain about agile?
+6.How many days once a sprint is released?
+7.What are your daily activities in office?
+8.What is static?
+9.How can we print a string with out main method in a class?
+10.Why is string class different in java?
+11.What is immutable?
+12.What is string constant pool and where is a string stored?
+13.Example of string String s="silpa"; String s="silpa"+"shetty"; String s1="silpa"; (where will s1 point to now)?
+14.What is the difference between stringbuffer and string builder?
+15.What is synchronization and non-synchronization & thread safe and not threadsafe?
+16.What are the methods in object class?
+17.What all collection classes did you use in your project?
+18.What are list implementation classes? Which are used for what?
+19.Why are notify,wait and notifyall are present in object class though they are used in thread?
+20.I have a used defined objects and i want to sort them based on a particular property what can i used to sort it?
+21.Why should we override hash and equals methods?
+22.Internal mechanism of hashmap?
+23.Difference between HashMap and LinkedHashMap?
+24.What is concurrentHashMap?
+25.What is failfast and failsafe?
+---------
+->What are difference between get() and load()?
+->Difference between session and sessionfactory? What are first and secondlevelcachy?
+->What are the states in hibernate?explain about each state?
+->Can we move an object from detached to persistent state?
+->What are page and pagecontext used for in jsp?
+->Is servlet threadSafe and why?
+->What are the annotations used in spring?
+-> What is meant by @component and  ComponentScan?
+->What is dependency injection?
+->What is autowired used for?
+->In how many ways dependencies can be injected? and which is preferrable and why?
+->

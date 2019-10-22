@@ -1,0 +1,61 @@
+-Explain about your project and how it works and internal flow? SDLC that has been followed ? 
+-How agile is used in your project?
+-How Conflicts or the exceptions handled in project? 
+-How were the codes modified when there are changes needed coz of an error and you got to fix it?
+-Which version of java did you use?
+- Any knowledge on JSF?
+- How projects were assigned to you and what are your day to day activities?
+- What would happen when there is a performace issue or there is something not properly working in the project consider UI part?
+How will you identify and deal in this situation with that sprint and how to handle it?
+
+-----------------------------------
+1.How does HashMap Work?
+2.What happens when we insert duplicate records in Hashmap?
+3.How does hashcode and equals work in a hashmap?
+4.Can we override hashmap and equals?
+5.Suppose there are 200 records in a table and there are duplicates in it, how to elimate duplicate data and get only distinct data in collections?
+6.What is the meaning of Immutable?
+7.Importance of immutable and string in a hashmap?
+8.Exception propagation to UI from service to controller to UI?
+9.In a table containing duplicate records we must get only the records which have distinct values
+Eg: Table:
+-------------
+ID NAME Sal      Year
+1  aaa  10000    2010
+1  aaa   11000   2011
+2 bbb     20000   2010
+3  ccc     30000  2011
+
+output
+
+------
+ID NAME SAL  YEAR
+2   bbb    20000    2010
+3   ccc     30000    2011
+
+10. How to handle exceptions in JSP?
+11. How to propagate Exceptions from JSP to Servlets or Servlets to JSP?
+12. What is the application server that is used?and what is the webserver?
+13. Ambiguous bean types in spring?
+14. Can we make entity class as final? No
+15. Can we make entity class contructor as private? NO
+16. What is a class loader and why is it used? Types of class loaders? Class loaders used by you?
+17. There is a name.jsp and it must contain a <header> <footer> <left Navigator> <Right Navigator> how can we define it dynamically and statically?
+18. A thread can print 1000 records in 1 hr & 10000 records 10 hours? how can  we finish 10000 records in 1 hour?
+19. Difference between get and load in hibernate? 
+20. In how many ways can we create a session using session factory?
+21. What is a hibernate filter?
+22. What is synchronization?
+23. How can we make servlet as thread safe?(single Threaded model, Used in atm scenario)
+24. Can thread safe can be maintained in jsp?
+25. How did u configure entity in spring ORM?
+26.In how many ways session can be created?
+27.Contract between hashcode and equals? Do We have to override hashcode and equals while using hashset and why?
+
+
+
+Things to learn
+--------------------------------
+Collection API
+PL/SQL- Duplicates,functions,keys
+Hibernate- Lazy loading, cascade, criteria, pagination, filter(Annotation, HBM file).
